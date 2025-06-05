@@ -76,7 +76,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // false if want private mode
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // show typing status   
 READ_CMD: process.env.READ_CMD || "false",
 // mark commands as read 
